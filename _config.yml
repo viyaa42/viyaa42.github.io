@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -106,4 +106,4 @@ deploy:
   type: git
   repo: 
     github: git@github.com:viyaa42/viyaa42.github.io.git
-  branch: main
+  branch: viyaa42-patch-1
